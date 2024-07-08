@@ -2,7 +2,7 @@
 > * We have taken responsibility for updates to the Loop Follow app
 > * Additional Loop Follow documentation is at [Loop and Learn: Loop Follow](https://www.loopandlearn.org/loop-follow/)
 > * If you are having problems with the app:
->     * Post in the [Loop and Learn Facebook group](https://www.facebook.com/groups/LOOPandLEARN); indicate that your question is related to Loop Follow
+>     * Post in the [Loop and Learn Facebook group]  qwe(https://www.facebook.com/groups/LOOPandLEARN); indicate that your question is related to Loop Follow
 >     * If you do not use Facebook - please click on this [link to file an Issue](https://github.com/loopandlearn/LoopFollow/issues) with your problem
 
 > **New location for LoopFollow Repository:**
